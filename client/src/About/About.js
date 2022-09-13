@@ -16,10 +16,11 @@ const About = () => {
         <li>Docker for containerization</li>
         <li>Heroku for deployment</li>
       </ul>
+    <br />
       <h1>Contributors:</h1>
       <ul>
         <li>N S R Jyothish Chandra</li>
-        <li>Mohitha</li>
+        <li>B Mohitha</li>
         <li>Shanawaz Baig</li>
       </ul>
       <h1>Attributions:</h1>
