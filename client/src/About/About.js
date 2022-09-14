@@ -17,12 +17,9 @@ const About = () => {
         <li>Heroku for deployment</li>
       </ul>
     <br />
-      <h1>Contributors:</h1>
-      <ul>
-        <li>N S R Jyothish Chandra</li>
-        <li>B Mohitha</li>
-        <li>Shanawaz Baig</li>
-      </ul>
+     <p>
+      Designed by Mohitha B, Voice assistant contributed by Shanu ,API and Responsive designed By Jyotish Chandra NSR 
+     </p>
     </div>
   );
 }
